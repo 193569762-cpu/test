@@ -1,3 +1,3 @@
 public class kkk {
-    int a=9;
+    int a=8;
 }
